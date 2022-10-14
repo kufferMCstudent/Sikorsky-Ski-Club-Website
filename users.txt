@@ -1,0 +1,6 @@
+nick,nj@yahoo.com,23456
+kate,kate@gmail.com,12345
+Rund,rund@gmail.com,1234
+Gio,giorgisamu.gs@haha.com,
+Rund Qasem,rqasem01@manhattan.edu,Washington4
+Sam Skinner,123@gmail.com,1234
